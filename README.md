@@ -11,5 +11,9 @@ Correlations Between Arctic Sea Ice Area And Atmospheric Variables Of Turkey (CF
 
 # ÇOK TEŞEKKÜRLER
 
+# EKLEME:
+- None
+
 #### Dosyalar Güncellenmeye Devam Edecektir.
+
 
