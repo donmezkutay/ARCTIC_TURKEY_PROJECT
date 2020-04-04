@@ -3,7 +3,7 @@ Correlations Between Arctic Sea Ice Area And Atmospheric Variables Of Turkey (CF
 
 # Merhaba Elçin Hocam;
 
-## 1-Lütfen README_Arctic.pdf Dosyasını OKUYUNUZ.
+## 1-Lütfen OUTLINE_Arctic.pdf Dosyasını OKUYUNUZ.
 
 ## 2-Haritaların Oluşturulması Aşamasında Kullanılan Kodlara PROJECT_CODES_Arctic Klasöründen Ulaşabilirsiniz...
 
