@@ -12,7 +12,11 @@ Correlations Between Arctic Sea Ice Area And Atmospheric Variables Of Turkey (CF
 # ÇOK TEŞEKKÜRLER
 
 # EKLEME:
-- None
+- 26.04.2020
+- time series kodları birlikte konuştuğumuz üzere güncellendi.
+- precipitable water time series haritaları eklendi.
+- kodlar güncellendi.
+- mail üzerinden bilgilendirme yapıldı.
 
 #### Dosyalar Güncellenmeye Devam Edecektir.
 
