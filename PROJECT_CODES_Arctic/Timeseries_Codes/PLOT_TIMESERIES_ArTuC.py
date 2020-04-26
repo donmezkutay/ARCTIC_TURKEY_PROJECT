@@ -8,3 +8,5 @@ MSLP_winterplotter = Arctic_Timeseries_Plot.plot_winter_timeseries_ARCTIC('MSLP'
 MSLP_springplotter = Arctic_Timeseries_Plot.plot_spring_timeseries_ARCTIC('MSLP')
 TEMP1000MB_winterplotter = Arctic_Timeseries_Plot.plot_winter_timeseries_ARCTIC('1000MBTEMP')
 TEMP1000MB_springplotter = Arctic_Timeseries_Plot.plot_spring_timeseries_ARCTIC('1000MBTEMP')
+PRECIPWATER_winterplotter = Arctic_Timeseries_Plot.plot_winter_timeseries_ARCTIC('PRECIPWATER')
+PRECIPWATER_springplotter = Arctic_Timeseries_Plot.plot_spring_timeseries_ARCTIC('PRECIPWATER')
