@@ -5,4 +5,6 @@ Codes in: [PROJECT_CODES_Arctic] directory
 
 Figures and Citation Sources in: [RESEARCH_OUTLOOK_Arctic] directory
 
+Research Overview: [OUTLINE_Arctic.pdf] directory
+
 
